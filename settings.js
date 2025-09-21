@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~LXQxAZTS#hAcfK9MLi1nLu1Irtut6iDF9vBwV42V2yiRiMCvMIXA",
+    SESSION_ID: process.env.SESSION_ID || "NENO-XMD~Pa4AGbLT#_b_UfkbhW_faY5U1cbolpI6jbjzRXAQ-BWXSgkMBfPA",
     // add your Session Id make sure it starts with NENO~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "ɴᴇɴᴏ-xᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "Mani x",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY NENO.XMD 💖😍*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MANI X 💖😍*",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
@@ -69,7 +69,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ɴᴇɴᴏ ᴠ3",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
@@ -78,19 +78,19 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779807044421",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "9779804861539",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "nenoxmani࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "MANISH X LIVE࿐",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀᴍ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ MANISH X LIVE*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     // Turn true or false for automatic read msgs
 
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     // make this true or false for auto react on all msgs
 
     ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -117,7 +117,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "263780166288",
+    DEV: process.env.DEV || "9779804861539",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
@@ -146,7 +146,7 @@ https://youtube.com/@MihirangaMihiranga-k1k
 https://github.com/Nimeshkamihiran/neno-xmd-V3
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀɴ💖😍`,
-OWNER_DISPLAY: process.env.OWNER_DISPLAY || "Nimeshka Mihiran",
+OWNER_DISPLAY: process.env.OWNER_DISPLAY || "MANI X LIVE",
     
 DOWNLOAD_DIR: process.env.DOWNLOAD_DIR || "./downloaded_status",
 
