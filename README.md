@@ -34,7 +34,7 @@ Bring automation, entertainment, and unique features to your chats!
 ---
 
 ## Deployment Methods
-1. **Get [`SESSION ID`](https://neno-pair-k47s.onrender.com) by Pair Code or Scanning QR code**  
+1. **Get [`SESSION ID`](https://neno-pair-v3-tirh.onrender.com) by Pair Code or Scanning QR code**  
    
   
 
