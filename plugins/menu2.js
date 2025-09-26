@@ -2,7 +2,7 @@ const { lite } = require('../lite');
 const config = require('../settings');
 
 lite({
-  pattern: "menu",
+  pattern: "menu2",
   react: "⚡",
   desc: "Show bot main menu",
   category: "main",
