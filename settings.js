@@ -69,7 +69,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ɴᴇɴᴏ ᴠ3",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
@@ -90,7 +90,7 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     // Turn true or false for automatic read msgs
 
-    AUTO_REACT: process.env.AUTO_REACT || "true",
+    AUTO_REACT: process.env.AUTO_REACT || "false",
     // make this true or false for auto react on all msgs
 
     ANTI_BAD: process.env.ANTI_BAD || "false",
