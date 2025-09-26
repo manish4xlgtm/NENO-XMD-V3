@@ -12,7 +12,7 @@ const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson
 lite({
     pattern: "3dcomic",
     desc: "Create a 3D Comic-style text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -49,7 +49,7 @@ lite({
 lite({
     pattern: "dragonball",
     desc: "Create a 3D Comic-style text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -86,7 +86,7 @@ lite({
 lite({
     pattern: "deadpool",
     desc: "Create a deadpool text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -123,7 +123,7 @@ lite({
 lite({
     pattern: "blackpink",
     desc: "Create a blackpink text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -160,7 +160,7 @@ lite({
 lite({
     pattern: "neonlight",
     desc: "Create a neon light text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -197,7 +197,7 @@ lite({
 lite({
     pattern: "cat",
     desc: "Create a cat text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -234,7 +234,7 @@ lite({
 lite({
     pattern: "sadgirl",
     desc: "Create a sadgirl text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -271,7 +271,7 @@ lite({
 lite({
     pattern: "pornhub",
     desc: "Create a pornhub text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -308,7 +308,7 @@ lite({
 lite({
     pattern: "naruto",
     desc: "Create a Naruto text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -345,7 +345,7 @@ lite({
 lite({
     pattern: "thor",
     desc: "Create a Thor text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -382,7 +382,7 @@ lite({
 lite({
     pattern: "america",
     desc: "Create  American text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -419,7 +419,7 @@ lite({
 lite({
     pattern: "eraser",
     desc: "Create a Eraser text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -456,7 +456,7 @@ lite({
 lite({
     pattern: "3dpaper",
     desc: "Create a 3D Paper text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -493,7 +493,7 @@ lite({
 lite({
     pattern: "futuristic",
     desc: "Create a futuristic text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -530,7 +530,7 @@ lite({
 lite({
     pattern: "clouds",
     desc: "Create a Clouds text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -567,7 +567,7 @@ lite({
 lite({
     pattern: "sans",
     desc: "Create a Sand text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -604,7 +604,7 @@ lite({
 lite({
     pattern: "galaxy",
     desc: "Create a Galaxy text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -641,7 +641,7 @@ lite({
 lite({
     pattern: "leaf",
     desc: "Create a Leaf text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -678,7 +678,7 @@ lite({
 lite({
     pattern: "sunset",
     desc: "Create a sunset text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -715,7 +715,7 @@ lite({
 lite({
     pattern: "nigeria",
     desc: "Create a Nigeria text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -752,7 +752,7 @@ lite({
 lite({
     pattern: "devilwings",
     desc: "Create a Devil Wings. text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -789,7 +789,7 @@ lite({
 lite({
     pattern: "hacker",
     desc: "Create a Hacker text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -826,7 +826,7 @@ lite({
 lite({
     pattern: "boom",
     desc: "Create a Boom text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -863,7 +863,7 @@ lite({
 lite({
     pattern: "luxury",
     desc: "Create a Luxury  text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -900,7 +900,7 @@ lite({
 lite({
     pattern: "zodiac",
     desc: "Create a 3D Comic-style text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -937,7 +937,7 @@ lite({
 lite({
     pattern: "angelwings",
     desc: "Create a Angel Wings text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -974,7 +974,7 @@ lite({
 lite({
     pattern: "bulb",
     desc: "Create a Bulb text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1011,7 +1011,7 @@ lite({
 lite({
     pattern: "tatoo",
     desc: "Create a Tatoo ext effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1048,7 +1048,7 @@ lite({
 lite({
     pattern: "castle",
     desc: "Create a  Castle text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1085,7 +1085,7 @@ lite({
 lite({
     pattern: "frozen",
     desc: "Create a Frozen text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1122,7 +1122,7 @@ lite({
 lite({
     pattern: "paint",
     desc: "Create a Paint text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1159,7 +1159,7 @@ lite({
 lite({
     pattern: "birthday",
     desc: "Create a Birthdaytext effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1196,7 +1196,7 @@ lite({
 lite({
     pattern: "typography",
     desc: "Create a Typography text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1233,7 +1233,7 @@ lite({
 lite({
     pattern: "bear",
     desc: "Create a Bear text effect",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, args, reply }) => {
@@ -1270,7 +1270,7 @@ lite({
 lite({
     pattern: "ytlogo",
     desc: "Create a Valorant YouTube banner with three text inputs",
-    category: "logo",
+    category: "anime",
     react: "🎨",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, prefix, args, reply }) => {
