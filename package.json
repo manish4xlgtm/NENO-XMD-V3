@@ -59,6 +59,7 @@
     "@dark-yasiya/news-scrap":"^1.0.0",
     "@dark-yasiya/scrap":"1.0.1",
     "wa-sticker-formatter":"4.4.4",
-    "@google/generative-ai":"0.24.1"
+    "@google/generative-ai":"0.24.1",
+    "jsdom":"27.0.0" 
   }
 }
