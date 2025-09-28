@@ -1,0 +1,70 @@
+{
+  "bot-name": "ɴᴇɴᴏ-xᴍᴅ",
+  "description": "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀᴍ",
+  "logo": "https://files.catbox.moe/u5qpen.jpg",
+  "keywords": ["bot", "whatsapp", "xmd", "neno"],
+  "documentation-link": "https://neno-pair-v3-tirh.onrender.com",
+  "owner-verification": "94721584279",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your session id, make sure it starts with NENO~",
+      "value": "NENO-XMD~ifA2gT6b#nve94oLWOLTDat0jLrBEjF_3Wqo8PKNP0gw1ncyayDY",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix (e.g., ., !, @ etc)",
+      "value": ".",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Bot display name for menu",
+      "value": "ɴᴇɴᴏ-xᴍᴅ",
+      "required": false
+    },
+    "MODE": {
+      "description": "Bot mode (public/private/inbox/group)",
+      "value": "public",
+      "required": false
+    },
+    "OWNER_NUMBER": {
+      "description": "Bot owner's WhatsApp number",
+      "value": "94721584279",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Bot owner's name",
+      "value": "ɴɪᴍᴇꜱʜᴋᴀ࿐",
+      "required": false
+    },
+    "AUTO_STATUS_SEEN": {
+      "description": "Automatically mark status as seen (true/false)",
+      "value": "true",
+      "required": false
+    },
+    "AUTO_STATUS_REPLY": {
+      "description": "Automatically reply to status (true/false)",
+      "value": "false",
+      "required": false
+    },
+    "WELCOME": {
+      "description": "Send welcome and goodbye messages in groups",
+      "value": "true",
+      "required": false
+    },
+    "ANTI_LINK": {
+      "description": "Enable anti-link detection in groups",
+      "value": "true",
+      "required": false
+    },
+    "MENU_IMAGE_URL": {
+      "description": "Image URL for menu and mention replies",
+      "value": "https://files.catbox.moe/u5qpen.jpg",
+      "required": false
+    },
+    "ALIVE_IMG": {
+      "description": "Image for alive message",
+      "value": "https://files.catbox.moe/u5qpen.jpg",
+      "required": false
+    }
+  }
+}
