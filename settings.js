@@ -81,7 +81,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "9779807044421",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "MANISH ࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "MANISH x ࿐",
     // add bot owner name
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ MANISH*",
