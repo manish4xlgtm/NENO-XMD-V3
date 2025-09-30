@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your session id, make sure it starts with NENO~",
-      "value": "NENO-XMD~ifA2gT6b#nve94oLWOLTDat0jLrBEjF_3Wqo8PKNP0gw1ncyayDY",
+      "value": "NENO-XMD~DCJCXAII#lNznU_id-OEd6cjhcZRYuGRRAqT-kOGrszHAQBM2yno",
       "required": true
     },
     "PREFIX": {
